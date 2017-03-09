@@ -10,7 +10,6 @@ libraries:
 # Regions
 regions:
   header: Header
-  search: Search
   featured: Featured
   content: Content
   sidebar_first: First sidebar
