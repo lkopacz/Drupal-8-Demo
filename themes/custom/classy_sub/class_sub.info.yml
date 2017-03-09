@@ -1,0 +1,18 @@
+name: Classy Sub Theme
+type: theme
+description: This is a sub theme of Classy
+core: 8.x
+# Defines the base theme
+base theme: classy
+# Defines libraries group in which we can add css/js.
+libraries:
+  - classy_sub/global-styling
+# Regions
+regions:
+  header: Header
+  search: Search
+  featured: Featured
+  content: Content
+  sidebar_first: First sidebar
+  sidebar_second: Second sidebar
+  footer: Footer
